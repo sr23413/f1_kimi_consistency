@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# FastF1 cache
+**/ff1_cache/
+*.ff1pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
